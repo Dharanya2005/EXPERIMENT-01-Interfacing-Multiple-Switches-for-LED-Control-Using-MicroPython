@@ -66,7 +66,7 @@ A MicroPython script reads the switch states and controls the LEDs accordingly.
 
 <img width="710" height="507" alt="image" src="https://github.com/user-attachments/assets/6bc88cc6-578c-4c45-a346-17d4804816ae" />
 
-## FIGURE-02:  circuit diagram of digital output interface 
+## FIGURE-02:  Circuit Diagram of Digital Output Interface 
 
 Connect LED 1 to GPIO 0 via a 330Ω resistor, LED 2 to GPIO 2 via a 330Ω resistor and LED 3 to GPIO 4 via a 330Ω resistor.
 
@@ -77,7 +77,8 @@ Connect the other terminals of the LEDs and Buzzer to GND.
 ## Experiment 1B
 
 <img width="940" height="576" alt="image" src="https://github.com/user-attachments/assets/6fc9a95f-28d4-4793-bf72-f60e34877c33" />
-## Figure-03 circuit diagram of digital input and output interface 
+
+## FIGURE-02:  Circuit Diagram of Digital Input and Output Interface 
 
 
 Connect switch 1 to GPIO 2 and switch 2 to GPIO 3.
