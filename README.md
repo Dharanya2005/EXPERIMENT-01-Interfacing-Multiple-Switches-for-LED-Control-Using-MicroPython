@@ -2,13 +2,13 @@
 
 
  
-## NAME:
+## NAME:DHARANYA N
 
-## DEPARTMENT:
+## DEPARTMENT:AI-DS
 
-## ROLL NO:
+## ROLL NO:212223230044
 
-## DATE OF EXPERIMENT:
+## DATE OF EXPERIMENT:21.04.2026
 
 ## AIM
 
@@ -170,29 +170,39 @@ while True:
 
 
 ## FIGURE-04: CIRCUIT CONNECTION
+<img width="860" height="500" alt="image" src="https://github.com/user-attachments/assets/9a3d1c9a-4512-4d7a-9d6e-8b5284d6bf81" />
+
 
 
 
 ## FIGURE-05: CODE EXECUTION OUTPUT
-
+<img width="937" height="835" alt="image" src="https://github.com/user-attachments/assets/86330e6d-ab81-4134-b7a1-eb55eef068d8" />
+<img width="942" height="837" alt="image" src="https://github.com/user-attachments/assets/8a0a53bb-68cd-4ecf-b6a1-915ade35dab6" />
+<img width="938" height="842" alt="image" src="https://github.com/user-attachments/assets/8f9af14a-a00c-4572-86a3-b30dc3e9d82a" />
 
 
 ## FIGURE-06: LED AND BUZZER STATUS
+<img width="949" height="833" alt="image" src="https://github.com/user-attachments/assets/34d6a361-ef20-4d21-8933-574b2245e222" />
 
 
 ## Experiment 1B:
 
 
 ## FIGURE-07: CIRCUIT CONNECTION
+<img width="898" height="438" alt="Screenshot 2026-04-22 115202" src="https://github.com/user-attachments/assets/7d23fb56-b5b3-45be-aeb3-750ade2bd336" />
 
 
 
 ## FIGURE-08: CODE EXECUTION OUTPUT
+<img width="957" height="815" alt="image" src="https://github.com/user-attachments/assets/7131a8cb-c254-45ba-a9dd-153b83f0331a" />
 
+<img width="948" height="820" alt="image" src="https://github.com/user-attachments/assets/ae1e6351-e556-498e-9fb7-dfe2eeaefb8f" />
 
 
 ## FIGURE-09: LED STATUS BASED ON SWITCH INPUTS
+<img width="940" height="810" alt="image" src="https://github.com/user-attachments/assets/3b7f4d6d-1494-4c19-ae70-9e8070de8c57" />
 
+<img width="946" height="827" alt="image" src="https://github.com/user-attachments/assets/8f210829-20e9-49a7-8cb8-3910532bc0ed" />
 
 ## RESULTS
 
