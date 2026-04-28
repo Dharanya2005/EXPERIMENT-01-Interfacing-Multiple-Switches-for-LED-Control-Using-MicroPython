@@ -93,7 +93,7 @@ For communication, I2C (SDA, SCL), SPI (MOSI, MISO, SCK), and UART (TX, RX) inte
 ''''
 
 ## Experiment 1A:
-
+```
 from machine import Pin
 import time
 print("Pi Pico")
@@ -126,13 +126,13 @@ while True:
     buzzer.value(0)  
     print("Buzzer is OFF")
     time.sleep(1)
-
+```
 
 
 
 ## Experiment 1B:
 
-
+```
 from machine import Pin
 import time import sleep 
 switch1=Pin(2,Pin.IN)
@@ -160,7 +160,7 @@ while True:
         led2.value(0)
     sleep(0.5)
 
- 
+ ```
 
 ## OUTPUT
 
